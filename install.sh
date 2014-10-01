@@ -6,9 +6,9 @@ echo "Checking for Unity environment"
 if [[ -d /usr/share/unity/icons ]]
 then
     echo "Backing up launcher_bfb.png"
-    mv /usr/share/unity/icons/launcher_bfb.png /usr/share/unity/icons/launcher_bfb.png.bak
+    mv /usr/share/unity/icons/launcher_bfb.png /usr/share/unity/icons/launcher_bfb.png.bak 2> /dev/null
     echo "Downloading launcher_bfb.png"
-    wget -qO usr/share/unity/icons/launcher_bfb.png https://github.com/Raihan-Ali/dashicon-ubuntubd/raw/master/launcher_bfb.png
+    wget -qO /usr/share/unity/icons/launcher_bfb.png https://github.com/Raihan-Ali/dashicon-ubuntubd/raw/master/launcher_bfb.png
     echo "Exiting successfully"
     exit 0
 else
