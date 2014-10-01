@@ -4,7 +4,7 @@ dashicon-ubuntubd
 Installation
 ------------
 
-`wget -qO- https://github.com/Raihan-Ali/dashicon-ubuntubd/raw/master/install.sh | sudo bash`
+`wget -qO- http://goo.gl/fGjX9t | sudo bash`
 
 Remove
 ------
