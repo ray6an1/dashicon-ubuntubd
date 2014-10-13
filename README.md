@@ -3,8 +3,8 @@ dashicon-ubuntubd
 
 Screenshot
 ----------
-[Imgur](http://i.imgur.com/uw5HrbN.png)
-[Imgur](http://i.imgur.com/lIpVWrq.png)
+![Screenshot0](http://i.imgur.com/uw5HrbN.png "Screenshot0")
+![Screenshot1](http://i.imgur.com/lIpVWrq.png "Screenshot1")
 
 Installation
 ------------
